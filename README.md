@@ -3,7 +3,6 @@
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with a Stratup
 - 💬 Ask me about  Web Dev
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: U know how to find me
+- ⚡ Fun fact: Better Call Dopamine..
 -->
