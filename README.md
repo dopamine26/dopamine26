@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning  React
 - 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with a Stratup
+- 🤔 I’m looking for help with a Startup
 - 💬 Ask me about  Web Dev
 - 📫 How to reach me: U know how to find me
 - ⚡ Fun fact: Better Call Dopamine..
